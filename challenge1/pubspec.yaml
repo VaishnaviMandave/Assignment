@@ -1,0 +1,33 @@
+name: challenge1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Rewards.png
+    - assets/Header.png
+    - assets/card.png
+    - assets/bali.png
+    - assets/indo.png
+    - assets/cafe.png
+    - assets/Coffee.png
+    - assets/Address.png
+    - assets/Notes.png
+    - assets/Shopping.png
+    - assets/Payment.png
+    
+
